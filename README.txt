@@ -1,0 +1,1 @@
+This repository hosts code and data files for replicating all statistical results reported in Constant et al. (submitted in elife) Trade-offs in dormancy phenology in endotherms and ectotherms. Code will run most efficiently if all files are saved to a common directory. 
